@@ -5,7 +5,7 @@ remote_theme: just-the-docs/just-the-docs
 url: https://manasa-bhagwat.github.io
 baseurl: /aws-handbook
 
-color_scheme: light
+color_scheme: dark
 
 search_enabled: true
 
