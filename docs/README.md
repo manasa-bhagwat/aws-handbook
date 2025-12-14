@@ -1,4 +1,4 @@
-# 🌩️ AWS Cloud Engineering Handbook
+# AWS Handbook
 Handbook • Playbooks • Runbooks — A Complete AWS Knowledge System
 
 This repository is a unified, structured AWS knowledgebase containing:
@@ -14,7 +14,7 @@ Use this repo as your authoritative reference for AWS learning, cloud operations
 
 ---
 
-## 📘 Handbook (Deep AWS Learning)
+## Handbook (Deep AWS Learning)
 Architecture, mental models, diagrams, patterns, internals.
 
 Topics include:
@@ -30,7 +30,7 @@ Topics include:
 
 ---
 
-## 📗 Playbooks (Procedural Guides)
+## Playbooks (Procedural Guides)
 Repeatable “how-to” steps for:
 
 - Creating IAM roles  
@@ -42,7 +42,7 @@ Repeatable “how-to” steps for:
 
 ---
 
-## 📙 Runbooks (Incident Response)
+## Runbooks (Incident Response)
 Troubleshooting workflows for:
 
 - EC2 unreachable  
@@ -54,7 +54,7 @@ Troubleshooting workflows for:
 
 ---
 
-## ⚡ Cheatsheets
+## Cheatsheets
 Quick lookups for:
 
 - IAM  
@@ -66,7 +66,7 @@ Quick lookups for:
 
 ---
 
-## 🎯 Purpose
+## Purpose
 This repo exists to:
 
 - Centralize your AWS knowledge  
@@ -77,7 +77,7 @@ This repo exists to:
 
 ---
 
-## 📈 Future Expansion
+## Future Expansion
 - Multi-account architecture references  
 - Advanced Terraform modules  
 - Cloud security frameworks  
@@ -85,5 +85,5 @@ This repo exists to:
 
 ---
 
-## 🤝 Contributions
+## Contributions
 This repo is primarily a personal knowledgebase but welcomes improvements, clarifications, and examples.
