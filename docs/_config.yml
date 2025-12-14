@@ -1,0 +1,33 @@
+title: AWS Handbook
+description: A living knowledge system for AWS engineers, architects & platform teams
+theme: just-the-docs
+
+url: https://manasa-bhagwat.github.io
+baseurl: /aws-handbook
+
+color_scheme: light
+
+search_enabled: true
+
+nav_sort: case_insensitive
+
+aux_links:
+  "GitHub Repository":
+    - "https://github.com/manasa-bhagwat/aws-handbook.git"
+
+aux_links_new_tab: true
+
+heading_anchors: true
+
+footer_content: "AWS Handbook"
+
+callouts:
+  note:
+    title: Note
+    color: blue
+  warning:
+    title: Warning
+    color: red
+  info:
+    title: Info
+    color: green
