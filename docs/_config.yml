@@ -1,6 +1,6 @@
 title: AWS Handbook
 description: A living knowledge system for AWS engineers, architects & platform teams
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 url: https://manasa-bhagwat.github.io
 baseurl: /aws-handbook
