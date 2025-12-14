@@ -1,13 +1,10 @@
 ---
-title: IAM Handbook
+title: IAM - Core Concepts
 parent: Handbooks
 nav_order: 1
 ---
 
-# AWS Identity and Access Management (IAM) — Handbook
----
-
-# Core Concepts
+# IAM Core Concepts
 
 ### Overview
 AWS Identity and Access Management(IAM) is the authentication and authorization system for AWS.

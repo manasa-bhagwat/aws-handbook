@@ -6,6 +6,7 @@ url: https://manasa-bhagwat.github.io
 baseurl: /aws-handbook
 
 color_scheme: dark
+enable_theme_switcher: true
 
 search_enabled: true
 
