@@ -4,7 +4,7 @@ parent: IAM
 nav_order: 1
 ---
 
-# AWS Identity and Access Management (IAM) — Core Concepts
+# IAM  Core Concepts
 ---
 
 ### Overview

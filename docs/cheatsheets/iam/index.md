@@ -1,6 +1,6 @@
 ---
 title: IAM
-parent: Handbooks
+parent: Cheatsheets
 has_children: true
 nav_order: 1
 ---
