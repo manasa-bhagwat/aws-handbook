@@ -1,10 +1,10 @@
 ---
 title: Core Concepts
-parent: IAM
+parent: IAM Handbook
 nav_order: 1
 ---
 
-# AWS Identity and Access Management (IAM) — Core Concepts
+# Core Concepts
 ---
 
 ### Overview
@@ -141,4 +141,3 @@ This handbook intentionally covers foundational IAM concepts only.
 
 Advanced authorization constructs and organisation-level controls are addressed separately.
 
----

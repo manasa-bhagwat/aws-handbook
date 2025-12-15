@@ -1,7 +1,8 @@
 ---
-title: Runbooks
-nav_order: 2
+title: IAM Runbooks
+parent: IAM
 has_children: true
+nav_order: 2
 ---
 
 # Runbooks

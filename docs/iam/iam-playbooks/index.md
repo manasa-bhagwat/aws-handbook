@@ -1,7 +1,8 @@
 ---
-title: Playbooks
-nav_order: 2
+title: IAM Playbooks
+parent: IAM
 has_children: true
+nav_order: 2
 ---
 
 # Playbooks
