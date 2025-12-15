@@ -1,89 +1,110 @@
 # AWS Handbook
-Handbook • Playbooks • Runbooks — A Complete AWS Knowledge System
 
-This repository is a unified, structured AWS knowledgebase containing:
+![GitHub Pages](https://img.shields.io/badge/docs-GitHub%20Pages-blue)
+![Status](https://img.shields.io/badge/status-active-success)
+![Scope](https://img.shields.io/badge/level-beginner%20to%20early--intermediate-informational)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-- **Handbook** (deep AWS architecture & internals)
-- **Playbooks** (step-by-step procedures)
-- **Runbooks** (incident response workflows)
-- **Cheatsheets** (quick references)
+A structured, practical handbook for learning and operating AWS services from a **beginner to early–intermediate** engineering perspective.
 
-It mirrors the documentation culture used in cloud-first engineering teams like AWS, Cloudflare, HashiCorp, Google SRE, and high-performance platform engineering orgs.
-
-Use this repo as your authoritative reference for AWS learning, cloud operations, and long-term cloud mastery.
-
----
-
-## Handbook (Deep AWS Learning)
-Architecture, mental models, diagrams, patterns, internals.
-
-Topics include:
-
-- IAM concepts & permission boundaries  
-- VPC networking & routing  
-- S3 internals & storage behaviors  
-- EC2 + Lambda compute models  
-- DynamoDB partitioning strategies  
-- Event-driven architectures  
-- Observability: logs, metrics, traces  
-- Terraform design patterns  
-
----
-
-## Playbooks (Procedural Guides)
-Repeatable “how-to” steps for:
-
-- Creating IAM roles  
-- Deploying Lambda functions  
-- Setting up secure S3 buckets  
-- Creating VPCs  
-- Configuring CloudWatch alarms  
-- Terraform workflows  
-
----
-
-## Runbooks (Incident Response)
-Troubleshooting workflows for:
-
-- EC2 unreachable  
-- S3 AccessDenied  
-- DynamoDB throttling  
-- Lambda timeout/root cause  
-- VPC connectivity issues  
-- Missing logs or metrics  
-
----
-
-## Cheatsheets
-Quick lookups for:
-
-- IAM  
-- VPC CIDR  
-- DynamoDB  
-- S3 commands  
-- Terraform commands  
-- CloudWatch  
+This repository focuses on **clear fundamentals**, **safe operational practices**, and **consistent documentation structure**, rather than exhaustive or expert-level coverage.
 
 ---
 
 ## Purpose
-This repo exists to:
 
-- Centralize your AWS knowledge  
-- Remove dependency on scattered tutorials  
-- Build deep cloud intuition  
-- Document platforms like a real cloud engineering team  
-- Support your growth into Cloud Platform Engineer roles  
+This repository exists to:
 
----
+- Build a **solid AWS foundation** before advanced specialization
+- Document AWS services in a way that mirrors **real engineering teams**
+- Emphasize **clarity, correctness, and operational thinking**
+- Avoid fragmented notes and ad-hoc learning
 
-## Future Expansion
-- Multi-account architecture references  
-- Advanced Terraform modules  
-- Cloud security frameworks  
-- AWS interview prep section  
+Advanced topics such as organization-wide governance, deep service internals, and large-scale optimization are intentionally out of scope.
 
 ---
 
-## Contributions
-This repo is primarily a personal knowledgebase but welcomes improvements, clarifications, and examples.
+## Intended Audience
+
+This handbook is intended for:
+
+- Engineers with **basic cloud computing knowledge**
+- Learners with **minimal prior AWS exposure**
+- Developers or infrastructure engineers transitioning into AWS
+
+Readers are expected to understand:
+- General cloud concepts (compute, storage, networking)
+- Basic software or infrastructure terminology
+- Command-line usage and configuration concepts
+
+---
+
+## Documentation Structure
+
+The repository is organized into the following sections:
+
+- **Handbooks**  
+  Conceptual explanations of AWS services and how they are designed to work.
+
+- **Runbooks**  
+  Deterministic, step-by-step guides for planned operational tasks.
+
+- **Playbooks**  
+  Troubleshooting and incident-response guides for common failure scenarios.
+
+- **Policies**  
+  Baseline governance rules and usage guidelines.
+
+- **Cheatsheets**  
+  Fast-reference material for day-to-day AWS usage.
+
+Each section is designed to be readable independently while remaining consistent across the repository.
+
+---
+
+## Published Documentation
+
+The handbook is published using **GitHub Pages** and the **Just the Docs** theme:
+
+**Documentation Site:**  
+https://manasa-bhagwat.github.io/aws-handbook/
+
+The site provides structured navigation and is the recommended way to consume the content.
+
+---
+
+## Scope and Level
+
+- **Depth:** Beginner → Early Intermediate  
+- **Focus:** Foundations, correct usage, and safe defaults  
+- **Not Covered:** Expert-level internals, advanced security models, or organization-scale architectures
+
+The goal is to build confidence and correctness before moving to advanced topics.
+
+---
+
+## Design Principles
+
+- Clear, neutral technical language
+- No opinionated tooling advocacy
+- No production-scale assumptions
+- Emphasis on understanding over optimization
+- Documentation-first approach
+
+---
+
+## Author
+
+- GitHub: https://github.com/manasa-bhagwat/
+- LinkedIn: https://www.linkedin.com/in/manasabhagwat/
+
+This repository reflects a structured learning and documentation approach aligned with platform and infrastructure engineering practices.
+
+---
+
+## License
+
+This project is licensed under the MIT License.  
+See the `LICENSE` file for details.
+
+---
