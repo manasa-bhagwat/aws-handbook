@@ -1,10 +1,10 @@
 ---
-title: Core Concepts
+title: Core Concepts of IAM
 parent: IAM Handbook
 nav_order: 1
 ---
 
-# Core Concepts
+# Core Concepts of IAM
 ---
 
 ### Overview

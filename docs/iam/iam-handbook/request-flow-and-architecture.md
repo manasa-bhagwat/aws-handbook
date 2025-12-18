@@ -1,5 +1,5 @@
 ---
-title: Architecture
+title: Request Flow & Architecture
 parent: IAM Handbook
 nav_order: 1
 ---
@@ -31,7 +31,7 @@ Every AWS API request passes through IAM before the target service processes it.
 
 ## Diagram
 
-![AWS IAM Request Evaluation Flow & Architecture](https://github.com/manasa-bhagwat/aws-handbook/blob/eb095cac1a307c4ac28b0aff087a20077080e690/docs/images/iam/aws-iam-architecture.png)
+![AWS IAM Request Evaluation Flow & Architecture](../../images/iam/aws-iam-architecture.png)
 
 AWS IAM Request Evaluation Flow & Architecture
 
@@ -141,5 +141,3 @@ This document intentionally excludes:
 - Federation and external identity providers
 
 These topics are addressed separately.
-
----
