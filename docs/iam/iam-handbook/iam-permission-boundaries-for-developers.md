@@ -1,6 +1,6 @@
 ---
 title: Permission Boundaries for Developers
-parent: IAM Runbooks
+parent: IAM Handbook
 nav_order: 1
 ---
 
@@ -10,8 +10,6 @@ nav_order: 1
 ## Purpose
 
 Prevent **privilege escalation** by developers while still allowing them to create and manage IAM roles within a controlled blast radius.
-
-This runbook enforces a hard ceiling on permissions using **IAM Permission Boundaries**.
 
 ---
 
@@ -211,9 +209,6 @@ Both are required for safe developer self-service.
 
 ## Related Documentation
 
+- Runbook: [Permission Boundary Setup](../iam-runbooks/iam-permission-boundary-setup.md)
 - Handbook: [Policy Simulator vs Runtime Identity](../iam-handbook/policy-simulator-vs-runtime-identity.md)
 - Runbook: [Fix IAM AccessDenied Errors](../iam-runbooks/fix-iam-AccessDenied-errors.md)
-
-## Last Updated
-
-2025-12-18

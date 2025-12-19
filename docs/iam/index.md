@@ -4,6 +4,6 @@ nav_order: 2
 has_children: true
 ---
 
-# Cheatsheets
+# Handbook
 
-Cheatsheets for AWS IAM.
+Handbook for AWS IAM.
